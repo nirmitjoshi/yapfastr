@@ -1,0 +1,2 @@
+# yapfastr
+yap faster
