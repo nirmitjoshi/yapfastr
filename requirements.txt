@@ -1,0 +1,4 @@
+tk
+tweepy
+python-dotenv
+spellchecker
